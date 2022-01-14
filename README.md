@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning ... this README file
 - 🤔 I’m looking for help with ... breaking away from retail with tech
 - 💬 Ask me about ... my boardgame collection
-- 📫 How to reach me: ... michael.burns02@gmail.com
+- 📫 How to reach me: ... michael . burns02 @ gmail . com
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... Call back later
 -  Testing testing
