@@ -11,4 +11,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about ... my boardgame collection
 - 📫 How to reach me: ... michael . burns02 @ gmail . com
 - 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ... Call back later
+- ⚡ Fun fact: ... I somehow managed to get this readme to work
