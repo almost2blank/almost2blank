@@ -12,4 +12,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... michael.burns02@gmail.com
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... Call back later
--  Testing testing
